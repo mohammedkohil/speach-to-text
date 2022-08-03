@@ -1,4 +1,4 @@
-# speache-to-text
+# speech-to-text
 html page provide click butten speache to text
 #the code below
 
