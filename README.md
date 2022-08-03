@@ -1,5 +1,5 @@
-# speach-to-text
-html page provide click butten speach to text
+# speache-to-text
+html page provide click butten speache to text
 #the code below
 
 def list_voices():
